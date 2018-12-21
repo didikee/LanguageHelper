@@ -1,0 +1,13 @@
+<resources>
+    <!--语言-->
+    <string name="chinese_zh" translatable="false">简体中文</string><!--简体中文-->
+    <string name="chinese_zh_tw" translatable="false">繁體中文</string><!--繁体中文-->
+    <string name="english_en" translatable="false">English</string><!--英语-->
+    <string name="japanese_jp" translatable="false">日本語</string><!--日本语-->
+    <string name="russian_ru" translatable="false">русский</string><!--俄语-->
+    <string name="german_de" translatable="false">Deutsch</string><!--德语-->
+    <string name="portuguese_de" translatable="false">Português</string><!--葡萄牙语-->
+    <string name="indonesian_in_id" translatable="false">Bahasa indonesia</string><!--印度尼西亚语-->
+    <string name="french_fr" translatable="false">Le français</string><!--法语-->
+    <string name="korean_ko" translatable="false">한국어</string><!--韩语-->
+</resources>
